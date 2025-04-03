@@ -1,0 +1,8 @@
+# cellphone_dataset.yaml
+path: 'D:/repos/Phone detection/dataset'  # Path to the dataset folder
+train: train/images     # Path to training images
+val: val/images         # Path to validation images
+
+# Class names
+names:
+  0: cellphone_use
